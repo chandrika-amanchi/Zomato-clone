@@ -1,1 +1,1 @@
-# Zomato-clone
+Amanchi chandrika zomato clone
