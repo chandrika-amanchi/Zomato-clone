@@ -1,1 +1,1 @@
-Amanchi chandrika zomato clone
+Amanchi-chandrika-zomato-clone
